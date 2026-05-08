@@ -24,7 +24,7 @@ This project takes raw WHO COVID-19 data through a complete analytics pipeline:
 
 | # | Insight |
 |---|---------|
-| 1 | 🇺🇸 **Americas** had the highest total case count by July 2020, driven by USA and Brazil |
+| 1 |     **Americas** had the highest total case count by July 2020, driven by USA and Brazil |
 | 2 | 📈 **Global cases** followed a classic exponential curve, accelerating after WHO pandemic declaration on March 11, 2020 |
 | 3 | 🏥 **Europe** had the highest death rate despite fewer cases — pointing to overwhelmed healthcare systems and older demographics |
 | 4 | 🌊 **Pandemic wave shifted** — hitting Europe hardest in March-April, then moving to Americas by June-July |
