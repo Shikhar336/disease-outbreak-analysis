@@ -75,18 +75,10 @@ disease-outbreak-analysis/
 
 ## 🖼️ Charts Preview
 
-### Global Timeline
-![Global Timeline](chart_global_timeline.png)
-
-### Top 10 Countries
-![Top 10 Countries](chart_top10_countries.png)
-
-### Death Rate by Region
-![Death Rate](chart_death_rate_region.png)
-
-### Monthly Heatmap
-![Heatmap](chart_heatmap_monthly.png)
-
+![Global Timeline](https://github.com/Shikhar336/disease-outbreak-analysis/blob/main/chart_global_timeline.png?raw=true)
+![Top 10 Countries](https://github.com/Shikhar336/disease-outbreak-analysis/blob/main/chart_top10_countries.png?raw=true)
+![Death Rate](https://github.com/Shikhar336/disease-outbreak-analysis/blob/main/chart_death_rate_region.png?raw=true)
+![Heatmap](https://github.com/Shikhar336/disease-outbreak-analysis/blob/main/chart_heatmap_monthly.png?raw=true)
 ---
 
 ## 🗂️ Data Pipeline
